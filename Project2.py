@@ -1,5 +1,3 @@
-#TODO 0:
-#LINH PHAN, PROJECT 2, NOV 10
 '''
 We use random to pick a random word from the supplied words list (saved in the words.py file)
 If there is an issue importing the supplied word_list, 
